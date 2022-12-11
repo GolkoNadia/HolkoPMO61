@@ -1,0 +1,101 @@
+school,sex,Education,Salary,Motivation,Result
+city,Male,both,big,not know,YES
+village,Male,at least one,big,low,YES
+village,Male,at least one,middle,not know,NO
+home,Female,at least one,big,high,YES
+home,Male,no one,low,not know,YES
+home,Male,at least one,low,low,NO
+home,Female,no one,low,not know,YES
+city,Male,no one,middle,high,YES
+village,Male,no one,big,low,YES
+city,Female,no one,big,low,NO
+city,Male,both,big,high,YES
+village,Female,no one,middle,low,YES
+village,Female,both,big,low,YES
+city,Female,no one,low,low,NO
+city,Female,no one,big,low,NO
+village,Female,both,low,low,YES
+city,Male,both,low,not know,YES
+home,Female,at least one,middle,high,NO
+village,Male,at least one,middle,not know,NO
+home,Female,both,low,low,YES
+city,Male,at least one,big,not know,YES
+city,Female,at least one,low,not know,YES
+city,Female,at least one,middle,low,NO
+city,Female,no one,middle,low,NO
+city,Female,no one,middle,low,NO
+city,Male,both,middle,not know,YES
+home,Male,both,big,high,NO
+home,Male,at least one,low,low,NO
+home,Male,no one,big,high,NO
+home,Female,both,big,low,YES
+city,Male,both,big,high,YES
+village,Male,both,big,not know,NO
+village,Male,no one,middle,not know,NO
+village,Male,both,low,high,NO
+city,Female,no one,low,not know,NO
+village,Female,both,low,high,YES
+village,Male,no one,big,high,YES
+village,Female,at least one,middle,high,NO
+home,Male,at least one,low,low,NO
+city,Male,both,low,low,NO
+home,Male,both,low,low,NO
+home,Female,both,low,low,YES
+city,Female,both,middle,high,YES
+village,Female,both,middle,not know,NO
+city,Female,both,middle,high,YES
+city,Female,at least one,middle,high,YES
+village,Female,both,low,not know,NO
+home,Male,both,big,not know,YES
+village,Female,no one,low,not know,NO
+home,Male,both,big,low,NO
+city,Male,both,low,high,YES
+city,Male,no one,middle,low,NO
+city,Male,both,low,low,NO
+home,Female,both,big,not know,YES
+home,Male,at least one,middle,low,YES
+village,Male,at least one,big,not know,NO
+city,Male,no one,big,high,YES
+village,Female,no one,middle,not know,NO
+city,Male,both,big,low,NO
+village,Male,both,middle,low,YES
+home,Male,both,big,not know,YES
+home,Male,both,middle,low,NO
+home,Female,no one,middle,not know,YES
+village,Female,at least one,low,high,YES
+home,Female,at least one,low,high,NO
+city,Female,at least one,big,low,NO
+city,Female,both,middle,not know,YES
+city,Male,both,middle,low,YES
+city,Female,both,low,not know,YES
+city,Female,no one,middle,low,NO
+city,Female,no one,low,high,YES
+home,Female,at least one,big,high,NO
+village,Male,no one,big,not know,NO
+village,Male,at least one,big,high,YES
+home,Male,both,big,not know,YES
+village,Male,both,big,high,YES
+village,Male,at least one,big,not know,NO
+home,Male,both,big,low,NO
+village,Female,both,middle,high,NO
+city,Male,at least one,big,not know,YES
+city,Female,both,low,not know,YES
+home,Female,no one,big,not know,YES
+village,Male,no one,low,low,YES
+village,Female,no one,middle,high,NO
+city,Male,at least one,low,low,NO
+home,Male,no one,big,not know,YES
+village,Male,at least one,low,high,NO
+village,Male,no one,low,high,NO
+home,Male,no one,low,low,NO
+home,Male,at least one,big,low,NO
+home,Male,no one,middle,low,NO
+village,Female,no one,big,high,YES
+village,Female,no one,low,low,YES
+home,Male,no one,low,low,NO
+home,Female,at least one,big,high,YES
+home,Male,at least one,low,low,YES
+city,Female,at least one,middle,not know,YES
+home,Male,both,low,low,NO
+village,Female,no one,middle,not know,NO
+village,Female,no one,low,high,YES
